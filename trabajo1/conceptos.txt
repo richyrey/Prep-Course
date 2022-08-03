@@ -1,0 +1,1 @@
+VARIABLE: es donde se ubica algo para ser utilizado en otra ocasion
