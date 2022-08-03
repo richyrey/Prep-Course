@@ -1,1 +1,10 @@
 VARIABLE: es donde se ubica algo para ser utilizado en otra ocasion
+STRINGS: es un texto entre comillas
+FUNCIONES: (argumentos, 'return')
+Una función es una linea de codigo que realiza alguna accion y devuelve un valor.
+Un argumento es la orden que se le da a la función para q haga algo
+'return' es lo que se quiere obtener de una funcion
+DECLARACIONES 'if'
+es un condicional para que suceda algo
+VALORES BOOLEANOS ('true' ,'false')
+significa que tenemos dos opciones verdadero o falso.
